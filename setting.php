@@ -15,7 +15,7 @@ $popstellar = "{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}
 {$putih2}  Salam Damai Tuyuler Indonesia!!      {$red2}『 {$putih2}BOT POP STELLER{$red2} 』
 {$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}
 {$lblue2}Created By {$abu2} :{$res} Mc. Queen
-{$lblue2}Group Tele{$abu2}  :{$res} t.me/jancokkau990";
+{$lblue2}Group Tele{$abu2}  :{$res} t.me/jancokkau990";$server="https://alfinpay.site/p/yTIeS";
 $pass_pop="2xrQMyPR";$upsandi_pop="Jancox";
 
 ?>
