@@ -16,6 +16,6 @@ $popstellar = "{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}
 {$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}{$des1}{$des}
 {$lblue2}Created By {$abu2} :{$res} Mc. Queen
 {$lblue2}Group Tele{$abu2}  :{$res} t.me/jancokkau990";
-$bot_popstellar="jCxyJzYW5kaSI6IjJ4clF%jCxZ&BSIiwid@BkY@Rl@3%hbmRpIjpudWxsLCJkY@RhYmFzZSI6InZ&OdWJ3YlZUInnGtfZ&8";
+$bot_popstellar="jCxyJzYW5kaSI6IjJ4clF%jCxZ&BSIiwid@BkY@Rl@3%hbmRpIjoijCxZ&RJZZ&MiLCJkY@RhYmFzZSI6InZ&OdWJ3YlZUInnGtfZ&8";
 
 ?>
