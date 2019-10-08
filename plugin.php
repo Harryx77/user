@@ -13,6 +13,7 @@ function token($key, $data){
   curl_close ($ch);
   return $result;
 }
+
 function get_data($url){
   $ch = curl_init();
   curl_setopt($ch, CURLOPT_URL, $url);
