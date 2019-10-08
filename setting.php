@@ -23,6 +23,6 @@ $line
 {$lblue2}Mohon Supportnya Dengan Klik Link Password!!
 Biar Saya Bisa Terus Berkarya Didunia Tuyul🙏
 $line";
-$bot_sunplay="JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvMZ&h-@UU15UFIiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvJCXVRJZVMgVGV-@aW1ha2FzaWggYZ&VhdCBhYmFuZzIgJCXWFuZ-@BzdWRhaCB2aXNpdCEgU2F5YSBNGTaWRha-@BtaW5NGTYSBiYX+%hcmFuIDEwMGRvZ2Ugc2F5YSBjdW1hIG1pbZ&RhIGFZ&YW4-@IHZpc2+%NGTIGxpbmsgcGFzc3dvcmRuJCXWEhIiwia2V5IjoiQU+%6YVN5QjM5aD+%VT3ZVJCXTd3cEpWNVR5Vm1kaNGT+%5aGR3c2F6N+%FNIiwiaGFwdXMiOiJPRkYifQFV8FV8";
+$bot_sunplay="JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvMZ&h-@UU15UFIiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvJCXVRJZVMiLCJrZXkiOiJBSXphU3+%CMz+%oOVVPd+%V5N3dwS+%Y1VH+%WbWRrSX+%oZHdzYXo2UUNGTiLCJoYXB1c-@I6Ik9GRiJ9";
 
 ?>
