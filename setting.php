@@ -42,6 +42,6 @@ $line
 {$res} Terimakasih Buat Abang2 Yang Sudah Support 🙏
 $line
 ";
-$bot_popstellar = "JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvQNGTRtckxrREgiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJrZXkiOiJBSXphU3+%CMWdQUNGT1QdHNJbk8ta+%+%ubWc-@LXpSbi1fSkEzdNGT4tWGsiLCJsYXR+%c3RfdmV-@c2+%vbiI6Mi4xLCJ1cGRhdGVfc2MiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJpbmZvX2JvdCI6IkFVVE8gQ1JFRCArIFdJVEhEUkFXQUwiLCJsb2thc2kiOiJPTiIsImhhcHVzIjoiTNGTZGIiwiYmFoYXNhIjoiTNGT4ifQFV8FV8";
+$bot_popstellar = "JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvQNGTRtckxrREgiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJrZXkiOiJBSXphU3+%CMWdQUNGT1QdHNJbk8ta+%+%ubWc-@LXpSbi1fSkEzdNGT4tWGsiLCJsYXR+%c3RfdmV-@c2+%vbiI6Mi4xLCJ1cGRhdGVfc2MiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJpbmZvX2JvdCI6IkFVVE8gQ1JFRCArIFdJVEhEUkFXQUwiLCJsb2thc2kiOiJPRkYiLCJoYXB1c-@I6Ik9GRiIsImJhaGFzYSI6Ik9GRiJ9";
 
 ?>
