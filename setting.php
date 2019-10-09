@@ -35,14 +35,13 @@ $popstellar = "
 $line
 {$lblue} Created By {$red2}:{$green2} Harry77x
 {$lblue} Support By {$red2}:{$green2} Mantan Terindah
-{$lblue} Support By {$red2}:{$green2} Yadisuhastra & Andi09
+{$lblue} Support By {$red2}:{$green2} Yadisuhastra & Andri09
 {$lblue} Join Grup Tele{$red2}      :{$green2} @SQUAD_TUYULER
 {$lblue} Sub & Like Cannel Yt{$red2}:{$green2} PENYWISESQUAD
 $line
 {$res} Terimakasih Buat Abang2 Yang Sudah Support 🙏
 $line
 ";
-echo $popstellar;
-$bot_popstellar = "JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvQNGTRtckxrREgiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJrZXkiOiJBSXphU3+%CMWdQUNGT1QdHNJbk8ta+%+%ubWc-@LXpSbi1fSkEzdNGT4tWGsiLCJsYXR+%c3RfdmV-@c2+%vbiI6Mi4xLCJ1cGRhdGVfc2MiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJpbmZvX2JvdCI6IkFVVE8gQ1JFRCArIFdJVEhEUkFXQUwiLCJsb2thc2kiOiJPTiIsImhhcHVzIjoiTNGTZGIiwiYmFoYXNhIjoiTNGTZGIZ&NGTFV8";
+$bot_popstellar = "JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvQNGTRtckxrREgiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJrZXkiOiJBSXphU3+%CMWdQUNGT1QdHNJbk8ta+%+%ubWc-@LXpSbi1fSkEzdNGT4tWGsiLCJsYXR+%c3RfdmV-@c2+%vbiI6Mi4xLCJ1cGRhdGVfc2MiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJpbmZvX2JvdCI6IkFVVE8gQ1JFRCArIFdJVEhEUkFXQUwiLCJsb2thc2kiOiJPTiIsImhhcHVzIjoiTNGTZGIiwiYmFoYXNhIjoiTNGT4ifQFV8FV8";
 
 ?>
