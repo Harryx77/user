@@ -25,4 +25,24 @@ Biar Saya Bisa Terus Berkarya Didunia Tuyul🙏
 $line";
 $bot_sunplay="JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvMZ&h-@UU15UFIiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvJCXVRJZVMiLCJrZXkiOiJBSXphU3+%CMz+%oOVVPd+%V5N3dwS+%Y1VH+%WbWRrSX+%oZHdzYXo2UUNGTiLCJoYXB1c-@I6Ik9GRiJ9";
 
+$popstellar = "
+{$red2}   ___  ____  ___  ________________   __   ___   ___
+  / _ \/ __ \/ _ \/ __/_  __/ __/ /  / /  / _ | / _ \
+{$putih2} / ___/ /_/ / ___/\ \  / / / _// /__/ /__/ __ |/ , _/
+/_/   \____/_/  /___/ /_/ /___/____/____/_/ |_/_/|_|
+                                      {$lblue2}[Versi Error]
+{$purple2}Info: Tersedia Versi Baru
+$line
+{$lblue} Created By {$red2}:{$green2} Harry77x
+{$lblue} Support By {$red2}:{$green2} Mantan Terindah
+{$lblue} Support By {$red2}:{$green2} Yadisuhastra & Andi09
+{$lblue} Join Grup Tele{$red2}      :{$green2} @SQUAD_TUYULER
+{$lblue} Sub & Like Cannel Yt{$red2}:{$green2} PENYWISESQUAD
+$line
+{$res} Terimakasih Buat Abang2 Yang Sudah Support 🙏
+$line
+";
+echo $popstellar;
+$bot_popstellar = "JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvQNGTRtckxrREgiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJrZXkiOiJBSXphU3+%CMWdQUNGT1QdHNJbk8ta+%+%ubWc-@LXpSbi1fSkEzdNGT4tWGsiLCJsYXR+%c3RfdmV-@c2+%vbiI6Mi4xLCJ1cGRhdGVfc2MiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJpbmZvX2JvdCI6IkFVVE8gQ1JFRCArIFdJVEhEUkFXQUwiLCJsb2thc2kiOiJPTiIsImhhcHVzIjoiTNGTZGIiwiYmFoYXNhIjoiTNGTZGIZ&NGTFV8";
+
 ?>
