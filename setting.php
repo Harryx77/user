@@ -3,8 +3,8 @@ $res="\033[0m";$hitam="\033[0;30m";$abu2="\033[1;30m";$putih="\033[0;37m";$putih
 $red="\033[0;31m";$red2="\033[1;31m";$green="\033[0;32m";$green2="\033[1;32m";$yellow="\033[0;33m";
 $yellow2="\033[1;33m";$blue="\033[0;34m";$blue2="\033[1;34m";$purple="\033[0;35m";$purple2="\033[1;35m";
 $lblue="\033[0;36m";$lblue2="\033[1;36m";
-$salah = "{$res}[❌]{$red}》";$benar = "{$res}[🍁]{$green}》";
-$warn = "{$res}[⏰]{$yellow2}》";$var = "{$res}[🐠]{$purple}》";
+$salah = "{$res}[❌]{$red2}》";$benar = "{$res}[🍁]{$green2}》";
+$warn = "{$res}[⏰]{$yellow2}》";$var = "{$res}[🐠]{$purple2}》";
 $line = "{$green2}☆━━━¤━━━━¤━━━━¤━━━━¤━━━━¤━━━━¤━━━━¤━━━━¤━━━☆";
 
 $sunplay = "{$yellow2}
@@ -42,6 +42,6 @@ $line
 {$res} Terimakasih Buat Abang2 Yang Sudah Support 🙏
 $line
 ";
-$bot_popstellar = "JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvQNGTRtckxrREgiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJrZXkiOiJBSXphU3+%CMWdQUNGT1QdHNJbk8ta+%+%ubWc-@LXpSbi1fSkEzdNGT4tWGsiLCJsYXR+%c3RfdmV-@c2+%vbiI6Mi4xLCJ1cGRhdGVfc2MiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJpbmZvX2JvdCI6IkFVVE8gQ1JFRCArIFdJVEhEUkFXQUwiLCJsb2thc2kiOiJPRkYiLCJoYXB1c-@I6Ik9GRiIsImJhaGFzYSI6Ik9GRiJ9";
+$bot_popstellar = "JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvQNGTRtckxrREgiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJrZXkiOiJBSXphU3+%CMWdQUNGT1QdHNJbk8ta+%+%ubWc-@LXpSbi1fSkEzdNGT4tWGsiLCJsYXR+%c3RfdmV-@c2+%vbiI6Mi4xLCJ1cGRhdGVfc2MiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJpbmZvX2JvdCI6IkFVVE8gQ1JFRCArIFdJVEhEUkFXQUwiLCJsb2thc2kiOiJPTiIsImhhcHVzIjoiTNGTZGIiwiYmFoYXNhIjoiTNGT4ifQFV8FV8";
 
 ?>
