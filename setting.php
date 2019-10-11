@@ -26,7 +26,8 @@ $line
 {$res} Berapapun Donasi Anda Kami Ucapkan Terimakasih
 {$res} Semoga Allah SWT Membalas Dengan Memberikan
 {$res} Anda Rizki Yang Berlimpah Amiin
-$line";
+$line
+";
 $bot_sunplay="JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvMZ&h-@UU15UFIiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvJCXVRJZVMiLCJrZXkiOiJBSXphU3+%CMz+%oOVVPd+%V5N3dwS+%Y1VH+%WbWRrSX+%oZHdzYXo2UUNGTiLCJoYXB1c-@I6Ik9GRiJ9";
 
 $popstellar = "
@@ -49,7 +50,8 @@ $line
 {$res} Berapapun Donasi Anda Kami Ucapkan Terimakasih
 {$res} Semoga Allah SWT Membalas Dengan Memberikan
 {$res} Anda Rizki Yang Berlimpah Amiin
-$line";
+$line
+";
 $bot_popstellar = "JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvbkNRTW1mSkgiLCJ1cGRhdGVfc2FuZGkiOiJodHRwO+%wvXC9hbGZpbZ&BhJCXS5zaXR+%XC9wXC9FQVZ3U-@IsImt+%JCXSI6IkFJJCXmFTJCXUIxZ1BTTVBNGTcNGT+%uT-@1qWW5tZzItJCX+%JuLV9KQTN3Ti1Ya-@IsImxhdGVzdF92ZXJzaW9uIjo-@LjEsIZ&VwZGFNGTZV9zY-@I6ImhNGTdHA6XC9cL2FsZm+%ucGF5LZ&NpdGVcL3BcLNGTVBVZ&dTIiwiaW5mb19ib3QiOiJBVVRPIENSRUQgK-@BXSVRIRFJBVNGTFMIiwibG9rYXNpIjoiTNGT4iLCJoYXB1c-@I6Ik9GRiIsImJhaGFzYSI6Ik9GRiJ9";
 
 $btcblaast = "{$red2}
@@ -75,6 +77,7 @@ $line
 {$res} Berapapun Donasi Anda Kami Ucapkan Terimakasih
 {$res} Semoga Allah SWT Membalas Dengan Memberikan
 {$res} Anda Rizki Yang Berlimpah Amiin
-$line";
+$line
+";
 $bot_btcblaast = "JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvMjNhQXZuckYiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvZkxVd2kiLCJrZXkiOiJBSXphU3+%DYm5qNZ&+%PQV+%Mb3k1WEpDU1hmNHI4aDhfdjExbNGTxYWUEiLCJsYXR+%c3RfdmV-@c2+%vbiI6M-@widXBkYXR+%X3NjIjoiaHRNGTcHM6XC9cL2FsZm+%ucGF5LZ&NpdGVcL3BcL2ZMVXdpIiwiaW5mb19ib3QiOiJBVVRPIENSRUQgK-@BNVUxUSSBBS1VOIiwibG9rYXNpIjoiTNGT4iLCJoYXB1c-@I6Ik9GRiIsImJhaGFzYSI6Ik9GRiJ9";
 ?>
