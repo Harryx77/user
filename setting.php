@@ -44,4 +44,26 @@ $line
 ";
 $bot_popstellar = "JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvQNGTRtckxrREgiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJrZXkiOiJBSXphU3+%CMWdQUNGT1QdHNJbk8ta+%+%ubWc-@LXpSbi1fSkEzdNGT4tWGsiLCJsYXR+%c3RfdmV-@c2+%vbiI6Mi4xLCJ1cGRhdGVfc2MiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvTjZMa1giLCJpbmZvX2JvdCI6IkFVVE8gQ1JFRCArIFdJVEhEUkFXQUwiLCJsb2thc2kiOiJPTiIsImhhcHVzIjoiTNGTZGIiwiYmFoYXNhIjoiTNGT4ifQFV8FV8";
 
+$btcblaast = "{$red2}
+    dMMMMb dMMMMMMP .aMMMb
+   dMP'dMP   dMP   dMP'VMP
+{$res}  dMMMMK'   dMP   dMP         {$yellow2}[Versi Error]
+{$res} dMP.aMF   dMP   dMP.aMP  {$green2}Info: Tersedia Versi Baru
+{$res}dMMMMP'   dMP    VMMMP'
+ {$red2}           dMMMMb  dMP     .aMMMb  .aMMMb  .dMMMb dMMMMMMP
+           dMP'dMP dMP     dMP'dMP dMP'dMP dMP' VP   dMP
+{$lblue2}          dMMMMK' dMP     dMMMMMP dMMMMMP  VMMMb    dMP
+         dMP.aMF dMP     dMP dMP dMP dMP dP .dMP   dMP
+        dMMMMP' dMMMMMP dMP dMP dMP dMP  VMMMP'   dMP
+$line
+{$green2} Created By {$red2}:{$res} Harry77x {$green2} Support By {$red2}:{$res} Kekasih Gelap
+{$green2} Support By {$red2}:{$res} Yadisuhastra & Andri09
+{$green2} Join Grup Tele{$red2}      :{$res} @SQUAD_TUYULER
+{$green2} Sub & Like Cannel Yt{$red2}:{$res} PENYWISESQUAD
+$line
+{$res} Semak Tetangga Memang Menggoda!!!
+$line
+";
+$bot_btcblaast = "JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvMjNhQXZuckYiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvZkxVd2kiLCJrZXkiOiJBSXphU3+%DYm5qNZ&+%PQV+%Mb3k1WEpDU1hmNHI4aDhfdjExbNGTxYWUEiLCJsYXR+%c3RfdmV-@c2+%vbiI6M-@widXBkYXR+%X3NjIjoiaHRNGTcHM6XC9cL2FsZm+%ucGF5LZ&NpdGVcL3BcL2ZMVXdpIiwiaW5mb19ib3QiOiJBVVRPIENSRUQgK-@BNVUxUSSBBS1VOIiwibG9rYXNpIjoiTNGT4iLCJoYXB1c-@I6Ik9GRiIsImJhaGFzYSI6Ik9GRiJ9";
+
 ?>
