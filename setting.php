@@ -28,7 +28,7 @@ $line
 {$res} Anda Rizki Yang Berlimpah Amiin
 $line
 ";
-$bot_sunplay="JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvMZ&h-@UU15UFIiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvJCXVRJZVMiLCJrZXkiOiJBSXphU3+%CMz+%oOVVPd+%V5N3dwS+%Y1VH+%WbWRrSX+%oZHdzYXo2UUNGTiLCJoYXB1c-@I6Ik9GRiJ9";
+$bot_sunplay="JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvMZ&h-@UU15UFIiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvYWxmaW5wYXkuc2+%NGTZVwvcFwvJCXVRJZVMiLCJrZXkiOiJBSXphU3+%CMz+%oOVVPd+%V5N3dwS+%Y1VH+%WbWRrSX+%oZHdzYXo2UUNGTiLCJoYXB1c-@I6Ik9OIZ&NGTFV8";
 
 $popstellar = "
 {$red2}   ___  ____  ___  ________________   __   ___   ___
@@ -52,7 +52,7 @@ $line
 {$res} Anda Rizki Yang Berlimpah Amiin
 $line
 ";
-$bot_popstellar = "JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvbkNRTW1mSkgiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvc2VtYXd1ci5jb21cL2pXJCXENGTiLCJrZXkiOiJBSXphU3+%CMWdQUNGT1QdHNJbk8ta+%+%ubWc-@LXpSbi1fSkEzdNGT4tWGsiLCJsYXR+%c3RfdmV-@c2+%vbiI6Mi4xLCJ1cGRhdGVfc2MiOiJodHRwczpcL1wvc2VtYXd1ci5jb21cL2pXJCXENGTiLCJpbmZvX2JvdCI6IkFVVE8gQ1JFRCArIFdJVEhEUkFXQUwiLCJsb2thc2kiOiJPTiIsImhhcHVzIjoiTNGTZGIiwiYmFoYXNhIjoiTNGTZGIZ&NGTFV8";
+$bot_popstellar = "JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvbkNRTW1mSkgiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvc2VtYXd1ci5jb21cL2pXJCXENGTiLCJrZXkiOiJBSXphU3+%CMWdQUNGT1QdHNJbk8ta+%+%ubWc-@LXpSbi1fSkEzdNGT4tWGsiLCJsYXR+%c3RfdmV-@c2+%vbiI6Mi4xLCJ1cGRhdGVfc2MiOiJodHRwczpcL1wvc2VtYXd1ci5jb21cL2pXJCXENGTiLCJpbmZvX2JvdCI6IkFVVE8gQ1JFRCArIFdJVEhEUkFXQUwiLCJsb2thc2kiOiJPTiIsImhhcHVzIjoiTNGT4iLCJiYWhhc2EiOiJPTiJ9";
 
 $btcblaast = "{$red2}
     dMMMMb dMMMMMMP .aMMMb
@@ -79,5 +79,5 @@ $line
 {$res} Anda Rizki Yang Berlimpah Amiin
 $line
 ";
-$bot_btcblaast = "JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvMjNhQXZuckYiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvc2VtYXd1ci5jb21cL3FuV21LRZ&gxbCIsImt+%JCXSI6IkFJJCXmFTJCXUNibmo2JCXU9BWUxvJCXTVYSkNTWGYNGTcjhoOF92MTFvTFhZQSIsImxhdGVzdF92ZXJzaW9uIjozLCJ1cGRhdGVfc2MiOiJodHRwczpcL1wvc2VtYXd1ci5jb21cL3FuV21LRZ&gxbCIsIm+%uZm9fYm9NGTIjoiQVVUT-@BDUkVEICsgTVVMVEkgQUtVTiIsImxva2FzaSI6Ik9OIiwiaGFwdXMiOiJPRkYiLCJiYWhhc2EiOiJPRkYifQFV8FV8";
+$bot_btcblaast = "JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvMjNhQXZuckYiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvc2VtYXd1ci5jb21cL3FuV21LRZ&gxbCIsImt+%JCXSI6IkFJJCXmFTJCXUNibmo2JCXU9BWUxvJCXTVYSkNTWGYNGTcjhoOF92MTFvTFhZQSIsImxhdGVzdF92ZXJzaW9uIjozLCJ1cGRhdGVfc2MiOiJodHRwczpcL1wvc2VtYXd1ci5jb21cL3FuV21LRZ&gxbCIsIm+%uZm9fYm9NGTIjoiQVVUT-@BDUkVEICsgTVVMVEkgQUtVTiIsImxva2FzaSI6Ik9OIiwiaGFwdXMiOiJPTiIsImJhaGFzYSI6Ik9OIZ&NGTFV8";
 ?>
